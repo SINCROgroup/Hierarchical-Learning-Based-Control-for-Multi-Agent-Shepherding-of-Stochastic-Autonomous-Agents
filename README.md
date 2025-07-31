@@ -1,4 +1,4 @@
-# Hierarchical Reinforcement Learning for Multi-Agent Shepherding of Non-Cohesive Targets  
+# Hierarchical Learning for Multi-Robot Shepherding of Stochastic Autonomous Agents: From Design to Experiments
 
 This repository contains the source code and demonstration videos associated with the paper:  
 
