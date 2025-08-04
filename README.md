@@ -1,4 +1,4 @@
-# Hierarchical Learning for Multi-Robot Shepherding of Stochastic Autonomous Agents: From Design to Experiments
+# Hierarchical Learning-Based Control for Multi-Agent Shepherding of Stochastic Autonomous Agents
 
 This repository contains the source code and demonstration videos associated with the paper:  
 
